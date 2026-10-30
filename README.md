@@ -22,8 +22,10 @@
  <br>- SQL Academy (2023)
  <br>
  <br> Кейс-чемпионаты:
- <br>- CUP-IT 2024. Аналитика данных https://github.com/maryamgab/CaseChampionship_CUP-IT_2024_PG
- <br>- CUP-IT 2025. Аналитика данных. HIGH QUALITY AWARDS 15% https://github.com/maryamgab/CaseChampionship_CUP-IT_2025
+ <br>- CUP-IT 2024. Аналитика данных. Рекомендательная система для создания идеальной планограммы товаров https://github.com/maryamgab/CaseChampionship_CUP-IT_2024_PG
+ <br>- CUP-IT 2025. Аналитика данных. Сервис для поиска маршрутов HIGH QUALITY AWARDS 15% https://github.com/maryamgab/CaseChampionship_CUP-IT_2025
+ <br>- Хакатон "Точка сборки". ИИ для автоматического заполнения характеристик товаров https://github.com/maryamgab/hackathon_AI_MVIDEO
+ 
 
 ###
 
